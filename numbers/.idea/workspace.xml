@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68909c2b-ecca-44ad-a6d9-f226af0a75b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lpoo-2020-g47" beforeDir="false" afterPath="$PROJECT_DIR$/../lpoo-2020-g47" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/aor/numbers/ListDeduplicatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/aor/numbers/ListDeduplicatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quiz_2018/quiz.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_2018/quiz.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quiz_2018/quiz.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_2018/quiz.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../refactoring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager">
@@ -86,10 +83,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="92" y="92" width="1182" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.768@0.0.1366.768" timestamp="1583775045663" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585584301898">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1588525282501">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585584301898" />
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1588525282501" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1588525566985">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588525566985" />
     <state width="1323" height="96" key="GridCell.Tab.0.bottom" timestamp="1583802049765">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
